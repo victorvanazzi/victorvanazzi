@@ -1,16 +1,39 @@
-## Hi there 👋
+# Victor Vanazzi | Portfólio de Análise e Ciência de Dados
 
-<!--
-**victorvanazzi/victorvanazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Olá! Seja bem-vindo ao meu portfólio!
+
+Prazer, sou o Victor, um entusiasta e estudante de Ciência de Dados e Machine Learning. Este é meu portfólio onde compartilho meus projetos pessoais e profissionais na minha jornada no universo dos dados.
+
+## 🧑‍💻 Sobre mim
+
+- 🎓 Estudante de Ciência de Dados e Machine Learning
+- 💻 Desenvolvendo projetos com Python, Power BI, SQL e Machine Learning
+- 📊 Apaixonado por transformar dados em soluções reais
+- 📍 Baseado em Brasília, Brasil
+
+## 🛠️ Habilidades Técnicas
+- **Análise de Dados**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Bancos de Dados**: SQL para manipulação e consultas avançadas
+- **Business Intelligence**: DataViz e Power BI para visualizações interativas e comunicação clara
+
+## 📂 Projetos
+
+### [Eficiência Logística e Rentabilidade com SQL — Delivery Center](https://github.com/victorvanazzi/analise-sql-case-delivery/)
+Análise logística da plataforma Delivery Center (jan-abr/2021), utilizando SQL para identificar padrões operacionais e gargalos. Identifiquei ineficiências financeiras e propus recomendações estratégicas para melhorar o desempenho da operação.
+
+
+## 📫 Vamos Conectar!
+
+- [LinkedIn](https://www.linkedin.com/in/victorvanazzi/)
+- [Email](mailto:victor.vanazzi@hotmail.com)
+- [Instagram](https://www.instagram.com/vanazzii/)
+
+---
+
+⭐️ Fique à vontade para explorar meus repositórios e me chamar para trocarmos uma ideia!
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2eddf6b2-80ce-4635-b878-cbb428e0c660" width="400"/>
+</p>
