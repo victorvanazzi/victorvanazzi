@@ -8,10 +8,10 @@ Prazer, sou o Victor, um entusiasta e estudante de Ciência de Dados e Machine L
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de Ciência de Dados e Machine Learning
+- 🎓 Estudante de Ciência de Dados e Machine Learning no UniCEUB
 - 💻 Desenvolvendo projetos com Python, Power BI, SQL e Machine Learning
 - 📊 Apaixonado por transformar dados em soluções reais
-- 📍 Baseado em Brasília, Brasil
+- 📍 Moro em Brasília, Brasil
 
 ## 🛠️ Habilidades Técnicas
 - **Análise de Dados**: Python (Pandas, NumPy, Matplotlib, Seaborn)
