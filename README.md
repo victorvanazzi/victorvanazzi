@@ -23,6 +23,8 @@ Prazer, sou o Victor, um entusiasta e estudante de Ciência de Dados e Machine L
 ### [Eficiência Logística e Rentabilidade com SQL — Delivery Center](https://github.com/victorvanazzi/analise-sql-case-delivery/)
 Análise logística da plataforma Delivery Center (jan-abr/2021), utilizando SQL para identificar padrões operacionais e gargalos. Identifiquei ineficiências financeiras e propus recomendações estratégicas para melhorar o desempenho da operação.
 
+### [Dashboard Brasileirão Série A (2020–2024)](https://github.com/victorvanazzi/dashboard-serie-a/)
+Dashboard em Power BI com dados do Brasileirão Série A (2020–2024), mostrando estatísticas de clubes e jogadores por temporada e comparativos históricos.
 
 ## 📫 Vamos Conectar!
 
