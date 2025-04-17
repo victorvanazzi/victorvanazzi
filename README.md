@@ -20,14 +20,14 @@ Prazer, sou o Victor, um entusiasta e estudante de Ciência de Dados e Machine L
 
 ## 📂 Projetos
 
+### [Impacto da COVID-19 sobre Eventos Cardiovasculares no Brasil (2018–2025)](https://github.com/victorvanazzi/impacto-covid-eventos-cardiovasculares/)
+Análise estatística com dados públicos do DataSUS sobre internações e óbitos por doenças cardiovasculares. A investigação compara os períodos pré e pós-pandemia, com uso de dessazonalização (STL), testes não paramétricos (Mann-Whitney e Levene) e medidas de efeito com intervalo de confiança (rank biserial).
+
 ### [Eficiência Logística e Rentabilidade com SQL — Delivery Center](https://github.com/victorvanazzi/analise-sql-case-delivery/)
 Análise logística da plataforma Delivery Center (jan-abr/2021), utilizando SQL para identificar padrões operacionais e gargalos. Identifiquei ineficiências financeiras e propus recomendações estratégicas para melhorar o desempenho da operação.
 
 ### [Dashboard Brasileirão Série A (2020–2024)](https://github.com/victorvanazzi/dashboard-serie-a/)
 Dashboard em Power BI com dados do Brasileirão Série A (2020–2024), mostrando estatísticas de clubes e jogadores por temporada e comparativos históricos.
-
-### [Impacto da COVID-19 sobre Eventos Cardiovasculares no Brasil (2018–2025)](https://github.com/victorvanazzi/impacto-covid-eventos-cardiovasculares/)
-Análise estatística com dados públicos do DataSUS sobre internações e óbitos por doenças cardiovasculares. A investigação compara os períodos pré e pós-pandemia, com uso de dessazonalização (STL), testes não paramétricos (Mann-Whitney e Levene) e medidas de efeito com intervalo de confiança (rank biserial).
 
 ## 📫 Vamos Conectar!
 
