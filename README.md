@@ -20,6 +20,9 @@ Prazer, sou o Victor, um entusiasta e estudante de Ciência de Dados e Machine L
 
 ## 📂 Projetos
 
+### [Previsão de Vendas Mensais com SARIMA e Prophet (2016–fev/2021)](https://github.com/victorvanazzi/previsao-vendas-mensais-sarima-prophet/)
+Pipeline de ingestão, transformação e agregação de dados em camadas (Bronze → Silver → Gold) no Databricks. Aplicação e comparação dos modelos SARIMA e Prophet em duas janelas temporais (pré-pandemia e pandemia), com avaliação de desempenho via MAE, RMSE e R².
+
 ### [Impacto da COVID-19 sobre Eventos Cardiovasculares no Brasil (2018–2025)](https://github.com/victorvanazzi/impacto-covid-eventos-cardiovasculares/)
 Análise estatística com dados públicos do DataSUS sobre internações e óbitos por doenças cardiovasculares. A investigação compara os períodos pré e pós-pandemia, com uso de dessazonalização (STL), testes não paramétricos (Mann-Whitney e Levene) e medidas de efeito com intervalo de confiança (rank biserial).
 
