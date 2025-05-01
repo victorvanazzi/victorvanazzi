@@ -1,13 +1,15 @@
 # Victor Vanazzi  
 ### Data Science • Analytics • Machine Learning
----
-**Este é meu portfólio onde compartilho meus projetos pessoais e profissionais na minha jornada no universo dos dados.**
+
+
 
 
 ## Apresentação:
 
-#### Prazer, sou Victor.
+#### 👋 Prazer, sou Victor.
 Sou graduando em Ciência de Dados e Machine Learning no UniCEUB e evoluo minha prática através de projetos que cobrem todo o ciclo analítico: coleta, limpeza, modelagem, avaliação e comunicação.
+
+**Este é meu portfólio onde compartilho meus projetos pessoais e profissionais na minha jornada no universo dos dados.**
 
 ---
 ## Competências Técnicas
