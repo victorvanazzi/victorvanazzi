@@ -16,11 +16,11 @@ Sou graduando em Ciência de Dados e Machine Learning no UniCEUB e evoluo minha 
 
 | Domínio | Ferramentas e Bibliotecas |
 |---------|---------------------------|
-| **Programação** | Python, Jupyter, VS Code, Google Colab |
+| **Programação** | Python, Jupyter|
 | **Análise de Dados** | pandas, NumPy, SciPy, Matplotlib, Seaborn |
-| **Modelagem Preditiva** | scikit-learn, Prophet, statsmodels (ARIMA/SARIMA) |
+| **Modelagem Preditiva** | scikit-learn, statsmodels |
 | **Big Data / ETL** | PySpark, Databricks, Delta Lake |
-| **Bancos de Dados** | SQL (SQLite), modelagem relacional, integração com ferramentas de visualização |
+| **Bancos de Dados** | SQL, modelagem relacional, integração com ferramentas de visualização |
 | **Business Intelligence** | Power BI (DAX), storytelling visual |
 | **Versionamento** | Git & GitHub – fluxo trunk-based com branches de feature |
 
