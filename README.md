@@ -30,7 +30,9 @@ Sou graduando em Ciência de Dados e Machine Learning no UniCEUB e evoluo minha 
 
 | Projeto | Descrição | Tecnologias-chave |
 |---------|-----------|-------------------|
-| [**Previsão de Vendas Mensais com SARIMA e Prophet (2016–2021)**](https://github.com/victorvanazzi/store-sales-forecasting) | Pipeline Bronze → Silver → Gold no **Databricks**; comparação SARIMA × Prophet; Prophet escolhido por métricas (MAE e R²). | PySpark, Delta Lake, Prophet, statsmodels |
+| [**Pipeline de Dados para Varejista Global de Eletrônicos**](https://github.com/victorvanazzi/core-data-pipeline) | Ingestão e transformação de dados brutos em arquitetura Medallion no Databricks; preparação para análises de desempenho e previsão de vendas. | PySpark, Delta Lake |
+| [**Previsão de Demanda de Vendas**](https://github.com/victorvanazzi/sales-demand-forecasting) | Previsão de demanda mensal agregada para uma varejista global de eletrônicos; seleção do melhor modelo para séries temporais. | Python, Prophet, statsmodels |
+| [**Análise de Desempenho de Vendas**](https://github.com/victorvanazzi/sales-performance-bi) | Dashboard analítico no Power BI para monitoramento financeiro, segmentação estratégica de produtos e análise de sazonalidade e mercados. | Power BI, DAX |
 | [**Impacto da COVID-19 em Eventos Cardiovasculares**](https://github.com/victorvanazzi/impacto-covid-eventos-cardiovasculares/) | Séries temporais DataSUS dessazonalizadas (STL) e testes Mann-Whitney + efeito rank-biserial; evidenciou aumento de internações pós-2020. | Python, pandas, SciPy |
 | [**Análise de Eficiência Logística – Delivery Center**](https://github.com/victorvanazzi/analise-sql-case-delivery/) | Diagnóstico de gargalos logísticos e financeiros via SQL. Propus recomendações para melhorar o desempenho da operação. | SQL, Power BI |
 
